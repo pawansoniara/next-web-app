@@ -1,3 +1,11 @@
+
+1. Generate boilerplate.
+	https://nextjs.org/docs/app/getting-started/installation
+2. Install MUI
+	https://mui.com/material-ui/integrations/nextjs/?srsltid=AfmBOorjKUSGow7cBAujQ9OBEvk6TVkxBodTJAJRHqIi7Xof6X2geQN5#pages-router
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
